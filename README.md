@@ -2,6 +2,23 @@
 
 Este repositório contém o código fonte do cardápio virtual acessado através da tecnologia QR Code.
 
+Ao longo dos semestres o Projeto Integrador foi evoluindo, conforme observado nos vídeos de apresentação a seguir.
+
+
+## Apresentações
+
+### Projeto Integrador I
+
+[QRDappio Digital](https://www.youtube.com/watch?v=KgDrX2JDz7U)
+
+### Projeto Integrador II
+
+[QRDappio Digital com recursos de acessibilidade e analytics](https://www.youtube.com/watch?v=2ni7oaLKrFE)
+
+### Projeto Integrador III
+
+[QRDappio Digital com recursos de de API e IoT](https://www.youtube.com/watch?v=wDCiMH1K7S8)
+
 
 ## Referências:
 
@@ -68,7 +85,7 @@ heroku git:remote -a projeto-integrador-poc
 git push heroku main
 
 
-## -- ARDUINO e Raspberry Pi --
+## Arduino e Raspberry Pi
 
 ### Comando para liberar porta Serial de arduino em sistemas Unix:
 sudo chmod a+rw /dev/ttyACM0
